@@ -14,17 +14,20 @@ I specialize in **advanced code obfuscation** and **game development**, blending
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiholee0&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eorini&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔧 **Tech Stack**
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -65,7 +68,7 @@ I specialize in **advanced code obfuscation** and **game development**, blending
 ---
 
 ### 📝 **DEV's Log**
-[Visit my blog for more insights](https://easyhomputer.tistory.com/22)
+[Visit my blog for more insights](https:.com/22)
 
 ---
 
